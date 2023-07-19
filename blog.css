@@ -1,0 +1,226 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container-90 {
+    width: 90% !important;
+}
+
+/*----------Navbar-Start--------*/
+.nav-main {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 1;
+}
+.nav-img-logo {
+    width: 150px;
+}
+.nav-btn {
+    padding: 8px 18px;
+    border: none;
+    color: #fff;
+    background-color: #fe4042;
+    border-radius: 8px;
+    opacity: .850;
+}
+.nav-btn:hover {
+    color: #fff;
+    background-color: #f6171b;
+    transition: .4s;
+}
+.nav-ul-main {
+    padding-left: 30px;
+}
+.nav-li {
+    padding-left: 25px;
+}
+/*----------Navbar-End--------*/
+
+/*------sec-1-start----------*/
+
+.sec-1-h3-blo {
+    text-align: center;
+    font-weight: bold;
+    color: #373f50;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.sec-1-div-1 {
+    background-color: #f6f9fc;
+}
+.sec-1-img-68 {
+    border-radius: 50%;
+    width: 35px;
+    border: 2px solid #fff;
+    outline: 1px solid rgb(218, 208, 208);
+}
+.sec-1-p-hea {
+    color: #373f50;
+    font-weight: bold;
+    font-size: 19px;
+}
+.span-oli {
+    color: #7d879c;
+    font-weight: bold;
+    font-size: 12px;
+    padding-right: 15px;
+    padding-left: 10px;
+}
+.span-slash {
+    padding-right: 15px;
+    color: #7d879c;
+    opacity: .600;
+
+}
+.span-inl {
+    color: #7d879c;
+    font-weight: bold;
+    font-size: 12px;
+}
+.sec-1-icon-div {
+    float: right;
+}
+.sec-1-icon-mesa {
+    opacity: .600;
+    font-size: 14px;
+}
+.sec-1-span-13 {
+    opacity: .600;
+    font-size: 13px;
+    font-weight: 600;
+    padding-left: 5px;
+}
+.sec-img-66 {
+    border-radius: 8px;
+}
+.sec-1-abso {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    margin-right: 8px;
+    background-color: rgba(255,255,255,.8);
+    font-size: 14px;
+    opacity: .550;
+}
+.sec-1-span-sep {
+    padding-left: 7px;
+}
+.sec-1-img-div-card {
+    position: relative;
+}
+.sec-1-border-bottom {
+    border-bottom: 1px solid rgb(204, 197, 197);
+    padding-bottom: 35px;
+}
+
+/*------sec-1-end----------*/
+
+/*------sec-2-start--------*/
+
+.sec-2-img-70 {
+    border-radius: 50%;
+    width: 35px;
+    border: 2px solid #fff;
+    outline: 1px solid rgb(218, 208, 208);
+}
+.sec-2-p-glo a{
+    color: #373f50;
+    text-decoration: none;
+    font-size: 18px;
+}
+.sec-2-p-glo a:hover{
+    color: #fe4042;
+    transition: .4s;
+}
+.sec-2-p-lorem {
+    text-align: justify;
+    font-size: 14px;
+    opacity: .850;
+}
+.sec-2-p-int {
+    font-size: 15px;
+    font-weight: bold;
+    color: #7d879c;
+}
+.sec-2-bor-btm {
+    border-bottom: 1px solid rgb(204, 197, 197);
+    padding-bottom: 22px;
+}
+.sec-2-bor-left {
+    border-right: 1px solid rgb(204, 197, 197);
+    padding-right: 80px;
+}
+.sec-2-p-blo {
+    opacity: .850;
+}
+.sec-2div-onl a {
+    font-size: 14px;
+    opacity: .800;
+    text-decoration: none;
+    color: #000;
+}
+.sec-2div-onl a:hover {
+    color: #fe4042;
+    transition: .4s;
+}
+.sec-2-div-num {
+    opacity: .800;
+    font-size: 14px;
+}
+.sec-2-bor-botm {
+    border-bottom: 1px solid rgb(204, 197, 197);
+    padding-bottom: 19px;
+}
+.sec-h6-ret a{
+    font-size: 14px;
+    text-decoration: none;
+    color: #000;
+    opacity: .750;
+}
+.sec-2-span-by {
+    color: #7d879c;
+    font-size: 12px;
+    font-weight: bold;
+}
+.sec-2-btn-tag {
+    border: 1px solid rgb(204, 197, 197);
+    text-decoration: none;
+    font-size: 12px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    opacity: .750;
+}
+.sec-2-btn-tag:hover {
+    background-color: #fff;
+}
+.sec-2-div-back-img-78 {
+    background-image: url(img/78.jpg);
+    height: 300px;
+    width: 100%;
+    margin-top: 35px;
+}
+.sec-2-p-hur {
+    font-size: 12px;
+    opacity: .750;
+    font-weight: bold;
+}
+.sec-2-btn-con {
+    border: none;
+    padding: 8px 14px;
+    background-color: #fe4042;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 5px;
+    opacity: .850;
+}
+.sec-2-btn-con:hover {
+    opacity: 1;
+    transition: .5s;
+}
+.sec-2-div-back-img-child {
+    text-align: center;
+    padding-top: 120px
+}
